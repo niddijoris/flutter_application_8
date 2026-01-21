@@ -1,16 +1,6 @@
-# flutter_application_8
-
-A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Two page simple student journal app
+<img width="1170" height="2532" alt="Image" src="https://github.com/user-attachments/assets/3fd3a6be-b8f2-402d-bdeb-a75b7e77f390" />
+<img width="1170" height="2532" alt="Image" src="https://github.com/user-attachments/assets/fe713c29-a62d-4f32-8a12-ec5aa96de60e" />
